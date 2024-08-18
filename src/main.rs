@@ -1,6 +1,6 @@
 use std::io;
 
-
+/// main function that repeatedly prompts the user to enter numbers and an opeeratop to perform calculations.
 fn main() {
    
 
